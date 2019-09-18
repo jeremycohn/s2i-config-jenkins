@@ -1,6 +1,7 @@
 ace-editor:1.1
 analysis-collector:2.0.0
 analysis-core:1.96
+anchore-container-scanner:1.0.19
 ansicolor:0.6.2
 ant:1.9
 antisamy-markup-formatter:1.5
